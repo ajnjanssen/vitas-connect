@@ -1,10 +1,9 @@
 'use client'
 import React from 'react'
-import { IconContext } from 'react-icons'
-import { RiCopperCoinLine } from 'react-icons/ri'
+// import { IconContext } from 'react-icons'
+// import { RiCopperCoinLine } from 'react-icons/ri'
 import items from './notifications.json'
 import Notification from './notifications'
-import { List, ListItem } from '@mui/material'
 
 function Window() {
   return (

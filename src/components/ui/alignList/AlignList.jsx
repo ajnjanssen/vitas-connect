@@ -1,8 +1,6 @@
 'use client'
 import React, { useEffect, useState } from 'react'
 import List from '@mui/material/List'
-import ListItem from '@mui/material/ListItem'
-import Divider from '@mui/material/Divider'
 import ListItems from './ListItems'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'

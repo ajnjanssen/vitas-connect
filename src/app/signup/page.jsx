@@ -52,7 +52,7 @@ function Page() {
   return (
     <div>
       <div className="flex flex-col">
-        {/* {step > 1 && (
+        {step > 1 && (
           <IoMdArrowRoundBack
             className="text-4xl text-secondary"
             onClick={handlePreviousStep}
@@ -76,8 +76,8 @@ function Page() {
             onFirstNameChange={setFirstName}
             onLastNameChange={setLastName}
           />
-        )} */}
-        {step === 1 && (
+        )}
+        {step === 3 && (
           <Avatar onNextStep={handleNextStep} onPrevStep={handlePreviousStep} />
         )}
       </div>

@@ -6,9 +6,6 @@ import {
   FormLabel,
   Radio,
   RadioGroup,
-  Select,
-  MenuItem,
-  InputLabel,
   Divider,
 } from '@mui/material'
 import avatars from './avatars.json'

@@ -1,6 +1,6 @@
 'use client'
-import { Divider } from '@mui/material'
 import React from 'react'
+import { Divider } from '@mui/material'
 
 function DefaultHeading({ heading, subheading }) {
   return (

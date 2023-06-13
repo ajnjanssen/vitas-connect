@@ -1,13 +1,13 @@
 import React from 'react'
 import ListItem from '@mui/material/ListItem'
-import Divider from '@mui/material/Divider'
+
 import ListItemText from '@mui/material/ListItemText'
 import ListItemAvatar from '@mui/material/ListItemAvatar'
 import Avatar from '@mui/material/Avatar'
 import Typography from '@mui/material/Typography'
-import { BookmarkAdd } from '@mui/icons-material'
+
 import { IconContext } from 'react-icons'
-import { Button } from '@mui/material'
+
 import { IoMdSchool } from 'react-icons/io'
 
 function ListItems({

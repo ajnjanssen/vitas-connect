@@ -1,5 +1,5 @@
 'use client'
-import React, { useState } from 'react'
+import React from 'react'
 import ReferralList from '../../components/ui/Referrals/ReferralList'
 import CTACard from '../../components/ui/Referrals/CTACard'
 import Heading from '../../components/ui/heading/defaultHeading'

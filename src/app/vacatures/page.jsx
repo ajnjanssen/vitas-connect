@@ -1,11 +1,9 @@
 'use client'
 import React, { useState } from 'react'
-import { Divider } from '@mui/material'
 import CheckboxGroup from '../../components/ui/CheckboxGroup/CheckboxGroup'
 import AlignList from '../../components/ui/alignList/AlignList'
 import DefaultHeading from '../../components/ui/heading/defaultHeading'
 import SearchInput from '../../components/ui/searchInput/SearchInput'
-import DropdownGroup from '../../components/ui/CheckboxGroup/DropdownGroup'
 
 // import CheckboxGroup from '@/components/ui/CheckboxGroup/CheckboxGroup'
 // import AlignList from '@/components/ui/alignList/AlignList'

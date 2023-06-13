@@ -1,4 +1,5 @@
 'use client'
+import React from 'react'
 import CTACard from '../../components/ui/Referrals/CTACard'
 import Tab from '../../components/ui/tabs/Tab'
 import { Container } from '@mui/material'
