@@ -1,5 +1,5 @@
-import DefaultHeading from '@/components/ui/heading/defaultHeading'
-import ThemeSelector from '@/components/ui/themeSelector/ThemeSelector'
+import DefaultHeading from '../../../components/ui/heading/defaultHeading'
+import ThemeSelector from '../../../components/ui/themeSelector/themeSelector'
 import React from 'react'
 
 function page() {

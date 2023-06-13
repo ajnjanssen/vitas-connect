@@ -1,9 +1,12 @@
 'use client'
 import React, { useState } from 'react'
 import { IoMdArrowRoundBack } from 'react-icons/io'
-import EmailRegistration from '@/components/signup/EmailRegistration'
-import PersonData from '@/components/signup/PersonData'
-import Avatar from '@/components/signup/Avatar'
+import EmailRegistration from '../../components/signup/EmailRegistration'
+import PersonData from '../../components/signup/PersonData'
+import Avatar from '../../components/signup/Avatar'
+// import EmailRegistration from '@/components/signup/EmailRegistration'
+// import PersonData from '@/components/signup/PersonData'
+// import Avatar from '@/components/signup/Avatar'
 
 function SignupPage() {
   const [step, setStep] = useState(1)

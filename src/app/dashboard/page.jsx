@@ -1,6 +1,6 @@
 'use client'
-import CTACard from '@/components/cards/CTACard'
-import Tab from '@/components/ui/tabs/Tab'
+import CTACard from '../../components/ui/Referrals/CTACard'
+import Tab from '../../components/ui/Referrals/Tab'
 
 import { Container } from '@mui/material'
 import Image from 'next/image'

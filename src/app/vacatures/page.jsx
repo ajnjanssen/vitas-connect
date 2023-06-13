@@ -1,11 +1,17 @@
 'use client'
 import React, { useState } from 'react'
-import CheckboxGroup from '@/components/ui/CheckboxGroup/CheckboxGroup'
-import AlignList from '@/components/ui/alignList/AlignList'
-import DefaultHeading from '@/components/ui/heading/defaultHeading'
-import SearchInput from '@/components/ui/searchInput/SearchInput'
 import { Divider } from '@mui/material'
-import DropdownGroup from '@/components/ui/CheckboxGroup/DropdownGroup'
+import CheckboxGroup from '../../components/ui/CheckboxGroup/CheckboxGroup'
+import AlignList from '../../components/ui/alignList/AlignList'
+import DefaultHeading from '../../components/ui/heading/defaultHeading'
+import SearchInput from '../../components/ui/searchInput/SearchInput'
+import DropdownGroup from '../../components/ui/CheckboxGroup/DropdownGroup'
+
+// import CheckboxGroup from '@/components/ui/CheckboxGroup/CheckboxGroup'
+// import AlignList from '@/components/ui/alignList/AlignList'
+// import DefaultHeading from '@/components/ui/heading/defaultHeading'
+// import SearchInput from '@/components/ui/searchInput/SearchInput'
+// import DropdownGroup from '@/components/ui/CheckboxGroup/DropdownGroup'
 
 function Vacatures() {
   const [searchQuery, setSearchQuery] = useState('')

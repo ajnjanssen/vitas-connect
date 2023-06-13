@@ -1,7 +1,6 @@
-import SettingsPageContent from '@/components/settings/SettingsPageContent'
-import DefaultHeading from '@/components/ui/heading/defaultHeading'
 import React from 'react'
-
+import DefaultHeading from '../../components/ui/heading/defaultHeading'
+import SettingsPageContent from '../../components/ui/settings/SettingsPageContent'
 function page() {
   return (
     <div>

@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from 'react'
-import LoginWindow from '@/components/login/LoginWindow'
+import LoginWindow from '../../components/login/LoginWindow'
 import Link from 'next/link'
 
 function Page() {

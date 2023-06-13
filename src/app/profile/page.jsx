@@ -1,10 +1,9 @@
 'use client'
-import Tab from '@/components/ui/tabs/Tab'
 import React from 'react'
 import { useState } from 'react'
 import { IconContext } from 'react-icons'
 import { FaUserCircle } from 'react-icons/fa'
-
+import Tab from '../../components/ui/tab/tab'
 function page() {
   // tab content is an array of objects
   const [username, setUsername] = useState('Gebruikersnaam')

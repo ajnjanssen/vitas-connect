@@ -1,10 +1,14 @@
 import React from 'react'
 import '../app/globals.css'
 import { Inter } from 'next/font/google'
-import BottomNav from '@/components/ui/navigation/BottomNav'
-import MobileNavigation from '@/components/ui/navigation/MobileNavigation'
-import DesktopNavigation from '@/components/ui/navigation/DesktopNavigation'
-import Window from '@/components/ui/messageWindow/Window'
+import BottomNav from '../components/ui/navigation/BottomNav'
+import MobileNavigation from '../components/ui/navigation/MobileNavigation'
+import DesktopNavigation from '../components/ui/navigation/DesktopNavigation'
+import Window from '../components/ui/messageWindow/Window'
+// import BottomNav from '@/components/ui/navigation/BottomNav'
+// import MobileNavigation from '@/components/ui/navigation/MobileNavigation'
+// import DesktopNavigation from '@/components/ui/navigation/DesktopNavigation'
+// import Window from '@/components/ui/messageWindow/Window'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {

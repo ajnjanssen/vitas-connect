@@ -1,9 +1,8 @@
 'use client'
 import React, { useState } from 'react'
-import ReferralList from '@/components/ui/Referrals/ReferralList'
-import SearchInput from '@/components/ui/searchInput/SearchInput'
-import Heading from '@/components/ui/Referrals/Heading'
-import CTACard from '@/components/ui/Referrals/CTACard'
+import ReferralList from '../../components/ui/Referrals/ReferralList'
+import CTACard from '../../components/ui/Referrals/CTACard'
+import Heading from '../../components/ui/heading/defaultHeading'
 
 function Referrals() {
   // const [amountPreviousUsers, setAmountPreviousUsers] = useState(0)
