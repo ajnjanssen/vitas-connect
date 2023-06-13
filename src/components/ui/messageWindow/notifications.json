@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Jan de Boer",
+    "image": "/Avatars/avatar3.jpg",
+    "type": "UPDATE",
+    "date": "2023-06-12",
+    "description": "Referentie succesvol afgerond!"
+  },
+  {
+    "id": "2",
+    "title": "Super Recruiter",
+    "image": "/Badge.png",
+    "type": "Badge",
+    "date": "2023-06-10",
+    "description": "De Referral Master Badge verdiend"
+  },
+  {
+    "id": "3",
+    "title": "Career Advancement",
+    "image": "/Avatars/avatar4.jpg",
+    "type": "Achievement",
+    "date": "2023-05-12",
+    "description": "You've reached Phase 3"
+  },
+  {
+    "id": "4",
+    "title": "Trailblazer",
+    "image": "/Badge.png",
+    "type": "Badge",
+    "date": "2023-06-04",
+    "description": "Earned the Pioneer Badge"
+  },
+  {
+    "id": "5",
+    "title": "Level Up!",
+    "image": "/Avatars/avatar3.jpg",
+    "type": "achievement",
+    "date": "2023-06-12",
+    "description": "You've reached Phase 2"
+  },
+  {
+    "id": "6",
+    "title": "Top Referrer",
+    "image": "/Badge.png",
+    "type": "Badge",
+    "date": "2023-06-10",
+    "description": "Earned the Referral Champion Badge"
+  },
+  {
+    "id": "7",
+    "title": "Promotion Alert",
+    "image": "/Avatars/avatar3.jpg",
+    "type": "achievement",
+    "date": "2023-06-12",
+    "description": "You've reached Phase 2"
+  },
+  {
+    "id": "8",
+    "title": "Networking Guru",
+    "image": "/Badge.png",
+    "type": "Badge",
+    "date": "2023-06-10",
+    "description": "Earned the Connector Badge"
+  },
+  {
+    "id": "9",
+    "title": "Career Advancement",
+    "image": "/Avatars/avatar3.jpg",
+    "type": "achievement",
+    "date": "2023-06-12",
+    "description": "You've reached Phase 2"
+  },
+  {
+    "id": "10",
+    "title": "Trailblazer",
+    "image": "/Badge.png",
+    "type": "Badge",
+    "date": "2023-06-10",
+    "description": "Earned the Pioneer Badge"
+  }
+]

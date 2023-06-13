@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "fa fa-user",
+    "title": "Accountgegevens",
+    "subtitle": "Bekijk gegegvens van je account, wijzig je wachtwoord of verwijder je account.",
+    "link": "/account-instellingen/account-gegevens"
+  },
+  {
+    "icon": "fa fa-bell",
+    "title": "Notificaties",
+    "subtitle": "Bekijk je notificaties en pas je notificatie instellingen aan.",
+    "link": "/account-instellingen/notificaties"
+  },
+  {
+    "icon": "fa fa-accessible-icon",
+    "title": "Toegankelijkheid",
+    "subtitle": "Bekijk instellingen voor toegankelijkheid, zoals lettergrootte en kleuren.",
+    "link": "/account-instellingen/toegankelijkheid"
+  }
+]

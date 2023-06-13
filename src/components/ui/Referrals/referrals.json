@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "avatar": "/Avatars/avatar1.jpg",
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "JohnDoe@doejohn.nl",
+    "phone": "31612345678",
+    "referenced": 1,
+    "referenceState": 1
+  },
+  {
+    "id": 2,
+    "avatar": "/Avatars/avatar2.jpg",
+    "name": "Jane Doe",
+    "username": "janedoe",
+    "email": "janedoe@janedoe.nl",
+    "phone": "31612345678",
+    "referenced": 1,
+    "referenceState": 2
+  },
+  {
+    "id": 3,
+    "avatar": "/Avatars/avatar3.jpg",
+    "name": "John Smith",
+    "username": "johnsmith",
+    "email": "johnsmith@johnsmith.nl",
+    "phone": "31612345678",
+    "referenced": 2,
+    "referenceState": 1
+  },
+  {
+    "id": 4,
+    "avatar": "/Avatars/avatar4.jpg",
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "janesmith@janesmith.nl",
+    "phone": "31612345678",
+    "referenced": 1,
+    "referenceState": 3
+  },
+  {
+    "id": 5,
+    "avatar": "/Avatars/avatar5.jpg",
+    "name": "John Johnson",
+    "username": "johnjohnson",
+    "email": "",
+    "phone": "31612345678",
+    "referenced": 1,
+    "referenceState": 1
+  },
+  {
+    "id": 6,
+    "avatar": "/Avatars/avatar6.jpg",
+    "name": "Jane Johnson",
+    "username": "janejohnson",
+    "email": "janejohnson@janejohnson.nl",
+    "phone": "31612345678",
+    "referenced": 1,
+    "referenceState": 1
+  }
+]

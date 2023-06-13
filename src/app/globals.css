@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--secondary) var(--primary);
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 15px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--primary);
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--secondary);
+  border-radius: 14px;
+  border: 3px solid var(--primary);
+}
+
+.gradient-background {
+  background: linear-gradient(to right, #ec6398, #ffbf92);
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+.gradient-background-alternative {
+  background: linear-gradient(to right, #e960e2, #4849e3);
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+.desktop-icons {
+  @apply w-6 h-6 text-base-content;
+}
+
+.css-e1g244 {
+  @apply mt-auto bottom-0;
+}
+
+.css-171yuk0-MuiListItem-root {
+  @apply hover:bg-base-300 text-white rounded-lg hover:cursor-pointer;
+}
+
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+  @apply bg-base-100 h-screen;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  @apply bg-base-100 h-screen shadow-md border-base-200;
+}
+
+.MuiDivider-root {
+  @apply border-base-200;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  @apply w-1/6;
+}
+
+.css-1l8j5k8 {
+  @apply bg-base-100;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* .vacature-title {
+  @apply text-primary font-bold;
+} */

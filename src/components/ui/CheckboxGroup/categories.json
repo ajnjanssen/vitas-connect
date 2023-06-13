@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "categorie": "DevOps Engineer"
+  },
+  {
+    "id": 2,
+    "categorie": "Backend Software Engineer"
+  },
+  {
+    "id": 3,
+    "categorie": "Frontend Software Engineer"
+  },
+  {
+    "id": 4,
+    "categorie": "Fullstack Software Engineer"
+  },
+  {
+    "id": 5,
+    "categorie": "Azure Solution Architect"
+  },
+  {
+    "id": 6,
+    "categorie": "Site Reliability Engineer"
+  },
+  {
+    "id": 7,
+    "categorie": "Agile Analist"
+  },
+  {
+    "id": 8,
+    "categorie": "Data Engineer"
+  },
+  {
+    "id": 9,
+    "categorie": "Business Intelligence Consultant"
+  }
+]
