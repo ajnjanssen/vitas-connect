@@ -59,7 +59,7 @@ function Window() {
 
           <div className="divide-y divide-gray-200 overflow-y-auto no-scrollbar max-h-[calc(100vh-30vh)] border border-base-200 rounded-box">
             <ul className="menu bg-base-100  h-full rounded-box ">
-              {items.map((item, index) => (
+              {/* {items.map((item, index) => (
                 <li key={index}>
                   <Notification
                     item={item}
@@ -71,7 +71,7 @@ function Window() {
                     description={item.description}
                   />
                 </li>
-              ))}
+              ))} */}
             </ul>
           </div>
         </div>
