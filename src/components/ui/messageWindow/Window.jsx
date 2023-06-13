@@ -62,7 +62,6 @@ function Window() {
               {items.map((item, index) => (
                 <li key={index}>
                   <Notification
-                    item={item}
                     title={item.title}
                     type={item.type}
                     image={item.image}
