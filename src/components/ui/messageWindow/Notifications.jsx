@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-function Notification({ image, title, date, type, description, id }) {
+function Notification({ image, title, date, type, description }) {
   const calculateTimeAgo = (date) => {
     const currentDate = new Date()
     const targetDate = new Date(date)
