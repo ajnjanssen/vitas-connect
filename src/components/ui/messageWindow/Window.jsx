@@ -3,7 +3,7 @@ import React from 'react'
 // import { IconContext } from 'react-icons'
 // import { RiCopperCoinLine } from 'react-icons/ri'
 import items from './notifications.json'
-import Notification from './notifications'
+import Notification from './Notifications'
 
 function Window() {
   return (
