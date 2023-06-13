@@ -16,7 +16,7 @@ export const metadata = {
   description: 'Referral program for Vitas employees ',
 }
 
-export default function RootLayout({ children }) {
+function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
@@ -51,3 +51,5 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
+
+export default RootLayout
