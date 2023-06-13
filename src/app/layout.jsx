@@ -39,13 +39,13 @@ export default function RootLayout({ children }) {
             <div className="w-full no-scrollbar">{children}</div>
           </div>
 
-          <div className="mr-0 h-full hidden w-1/6 lg:block top-0 sticky">
+          {/* <div className="mr-0 h-full hidden w-1/6 lg:block top-0 sticky">
             <Window />
           </div>
 
           <div className="lg:hidden">
             <BottomNav />
-          </div>
+          </div> */}
         </div>
       </body>
     </html>
