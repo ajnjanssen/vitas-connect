@@ -8,7 +8,7 @@ import Avatar from '../../components/signup/Avatar'
 // import PersonData from '@/components/signup/PersonData'
 // import Avatar from '@/components/signup/Avatar'
 
-function SignupPage() {
+function Page() {
   const [step, setStep] = useState(1)
   const [firstName, setFirstName] = useState('')
   const [lastName, setLastName] = useState('')
@@ -85,4 +85,4 @@ function SignupPage() {
   )
 }
 
-export default SignupPage
+export default Page

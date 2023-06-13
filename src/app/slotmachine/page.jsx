@@ -1,6 +1,6 @@
 import React from 'react'
 import DefaultHeading from '../../components/ui/heading/defaultHeading'
-function page() {
+function Page() {
   return (
     <div>
       <DefaultHeading
@@ -11,4 +11,4 @@ function page() {
   )
 }
 
-export default page
+export default Page

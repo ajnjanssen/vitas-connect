@@ -4,7 +4,7 @@ import ReferralList from '../../components/ui/Referrals/ReferralList'
 import CTACard from '../../components/ui/Referrals/CTACard'
 import Heading from '../../components/ui/heading/defaultHeading'
 
-function Referrals() {
+function Page() {
   // const [amountPreviousUsers, setAmountPreviousUsers] = useState(0)
 
   return (
@@ -18,4 +18,4 @@ function Referrals() {
   )
 }
 
-export default Referrals
+export default Page

@@ -9,7 +9,7 @@ import TableRow from '@mui/material/TableRow'
 import Paper from '@mui/material/Paper'
 import usersData from './users.json'
 
-export default function BasicTable() {
+function BasicTable() {
   const sortedRows = usersData.sort((a, b) => b.punten - a.punten)
   const rows = sortedRows.slice(3) // Exclude the first 3 ranks
 
@@ -68,3 +68,5 @@ export default function BasicTable() {
     </TableContainer>
   )
 }
+
+export default Table

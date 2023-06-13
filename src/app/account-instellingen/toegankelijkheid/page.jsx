@@ -2,7 +2,7 @@ import DefaultHeading from '../../../components/ui/heading/defaultHeading'
 import ThemeSelector from '../../../components/ui/themeSelector/ThemeSelector'
 import React from 'react'
 
-function page() {
+function Page() {
   return (
     <div>
       <DefaultHeading
@@ -40,4 +40,4 @@ function page() {
   )
 }
 
-export default page
+export default Page

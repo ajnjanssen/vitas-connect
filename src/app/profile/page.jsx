@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { IconContext } from 'react-icons'
 import { FaUserCircle } from 'react-icons/fa'
 import Tab from '../../components/ui/tabs/Tab'
-function page() {
+function Page() {
   // tab content is an array of objects
   const [username, setUsername] = useState('Gebruikersnaam')
   const [points, setPoints] = useState(0)
@@ -166,4 +166,4 @@ function page() {
   )
 }
 
-export default page
+export default Page

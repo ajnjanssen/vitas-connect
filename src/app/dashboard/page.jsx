@@ -4,7 +4,7 @@ import Tab from '../../components/ui/tabs/Tab'
 import { Container } from '@mui/material'
 import Image from 'next/image'
 
-export default function Home() {
+function Page() {
   // tab content is an array of objects
   const items = [
     {
@@ -108,3 +108,5 @@ export default function Home() {
     </>
   )
 }
+
+export default Page

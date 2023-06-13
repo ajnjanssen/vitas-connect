@@ -13,7 +13,7 @@ import DropdownGroup from '../../components/ui/CheckboxGroup/DropdownGroup'
 // import SearchInput from '@/components/ui/searchInput/SearchInput'
 // import DropdownGroup from '@/components/ui/CheckboxGroup/DropdownGroup'
 
-function Vacatures() {
+function Page() {
   const [searchQuery, setSearchQuery] = useState('')
 
   const handleSearch = (query) => {
@@ -53,4 +53,4 @@ function Vacatures() {
   )
 }
 
-export default Vacatures
+export default Page
