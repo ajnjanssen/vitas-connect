@@ -1,6 +1,6 @@
 import React from 'react'
 import DefaultHeading from '../../components/ui/heading/defaultHeading'
-import SettingsPageContent from '../../components/settings/settingsPageContent'
+import SettingsPageContent from '../../components/settings/SettingsPageContent'
 function page() {
   return (
     <div>
