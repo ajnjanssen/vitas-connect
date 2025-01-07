@@ -21,7 +21,7 @@
     "firebase": "^9.22.1",
     "flowbite": "^1.6.5",
     "flowbite-react": "^0.4.6",
-    "next": "^13.4.5",
+    "next": "^14.2.21",
     "next-themes": "^0.2.1",
     "postcss": "8.4.24",
     "react": "^18.2.0",
